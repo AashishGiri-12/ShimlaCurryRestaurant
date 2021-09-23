@@ -6,7 +6,7 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #FFFFFF;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/body-b.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/body-b.jpg)center/cover fixed no-repeat;
 }
 
 .header-font {
@@ -36,7 +36,7 @@ body {
 /*hhhhheeeeeaaaaadddddeeeeerrrrr*/
 #header {
     min-height: calc(100vh - 94px);
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/ban.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/ban.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -155,7 +155,7 @@ body {
 /*menuuuuuuuuuuuuuuuuuuuuuuuui*/
 #menu-i {
     min-height: calc(100vh - 94px);
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/menu.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/menu.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -295,7 +295,7 @@ body {
 
 /*mmmmmeeeeennnnnnnuuuuuuuiiiiitttttteeeeemmmmm */
 #menu {
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(../img/ban2.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(img/ban2.jpg)center/cover fixed no-repeat;
 
 }
 
@@ -482,46 +482,46 @@ body {
 }
 /* menuu*/
 #Entree {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/ban2.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/ban2.jpg)center/cover fixed no-repeat;
 
 }
 #Chicken {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-1.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-1.jpg)center/cover fixed no-repeat;
 
 }
 #Lamb {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-2.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-2.jpg)center/cover fixed no-repeat;
 
 }
 #Beef {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-3.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-3.jpg)center/cover fixed no-repeat;
 
 }
 #Sea-food {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-4.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-4.jpg)center/cover fixed no-repeat;
 
 }
 #Vegetarain {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-5.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-5.jpg)center/cover fixed no-repeat;
 
 }
 #Rice-dishes {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-6.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-6.jpg)center/cover fixed no-repeat;
 
 }
 #roties {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-7.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-7.jpg)center/cover fixed no-repeat;
 
 }
 #Accompaniments {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-8.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-8.jpg)center/cover fixed no-repeat;
 
 }
 #Dessert {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-9.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-9.jpg)center/cover fixed no-repeat;
 
 }
 #Beverage {
-    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(../img/menu-ban-10.jpg)center/cover fixed no-repeat;
+    background: linear-gradient(rgba(255,255, 255, 0.7), rgba(255,255, 255, 0.7)), url(img/menu-ban-10.jpg)center/cover fixed no-repeat;
 
 }
